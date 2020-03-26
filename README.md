@@ -8,5 +8,5 @@
 이 자료는 아래 출처에서 데이터를 가져와 작성하고 있습니다.
 
 ## 자료 출처
-- 공공데이터포털 중앙선거관리위원회 코드정보: https://www.data.go.kr/dataset/15000897
+- 공공데이터포털 중앙선거관리위원회 코드정보: https://www.data.go.kr/dataset/15000897/openapi.do
 - 대한민국 행정동 경계(admdongkor): https://github.com/vuski/admdongkor
