@@ -32,8 +32,8 @@
         <th>읍면동</th>
     </tr>
     <tr>
-        <th>[1](https://11)</th>
-        <th>[종로구] [1]</th>
+        <th>1</th>
+        <th><a href="./blob/master/20200415_2/1.geojson">종로구</a></th>
         <th>종로구</th>
         <td>청운효자동, 사직동, 삼청동, 부암동, 평창동, 무악동, 교남동, 가회동, 종로1·2·3·4가동, 종로5·6가동, <br>이화동, 혜화동, 창신제1동, 창신제2동, 창신제3동, 숭인제1동, 숭인제2동
         </td>
@@ -436,19 +436,3 @@
         <td>기장읍, 장안읍, 정관읍, 일광면, 철마면</td>
     </tr>
 </table>
-
-[1]: https://github.com/Clein8/election-district/blob/master/20200415_2/1.geojson
-[2]: https://github.com/Clein8/election-district/blob/master/20200415_2/2.geojson
-[3]: https://github.com/Clein8/election-district/blob/master/20200415_2/3.geojson
-[4]: https://github.com/Clein8/election-district/blob/master/20200415_2/4.geojson
-[5]: https://github.com/Clein8/election-district/blob/master/20200415_2/5.geojson
-[6]: https://github.com/Clein8/election-district/blob/master/20200415_2/6.geojson
-[7]: https://github.com/Clein8/election-district/blob/master/20200415_2/7.geojson
-[8]: https://github.com/Clein8/election-district/blob/master/20200415_2/8.geojson
-[9]: https://github.com/Clein8/election-district/blob/master/20200415_2/9.geojson
-[10]: https://github.com/Clein8/election-district/blob/master/20200415_2/10.geojson
-[11]: https://github.com/Clein8/election-district/blob/master/20200415_2/11.geojson
-[12]: https://github.com/Clein8/election-district/blob/master/20200415_2/12.geojson
-[13]: https://github.com/Clein8/election-district/blob/master/20200415_2/13.geojson
-[14]: https://github.com/Clein8/election-district/blob/master/20200415_2/14.geojson
-[15]: https://github.com/Clein8/election-district/blob/master/20200415_2/15.geojson
