@@ -28,8 +28,8 @@
 ### 서울특별시
 <table>
   <tr>
-    <th>선거구명</th>
-    <th>구시군명</th>
+    <th style="white-space: nowrap; word-break: keep-all;">선거구명</th>
+    <th style="white-space: nowrap; word-break: keep-all;">구시군명</th>
     <th>읍면동명</th>
   </tr><tr>
     <th>종로구</th>
