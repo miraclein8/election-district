@@ -29,9 +29,9 @@
 <table>
     <tr>
         <th>코드</th>
-        <th>선거구명</th>
-        <th>구시군명</th>
-        <th>읍면동명</th>
+        <th>선거구</th>
+        <th>구시군</th>
+        <th>읍면동</th>
     </tr>
     <tr>
         <th>1</th>
